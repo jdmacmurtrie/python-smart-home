@@ -1,0 +1,177 @@
+{
+    "name": "Condos by the Schuk",
+    "address": {
+        "address_line_1": "222 Riverside Ave.",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19129"
+    },
+    "devices": {
+        "thermostats": [
+            {
+                "id": 1,
+                "unit": 301,
+                "model": "Thermo10.1",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 2,
+                "unit": 201,
+                "model": "Thermo10.1",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 3,
+                "unit": 202,
+                "model": "Thermo10.1",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 4,
+                "unit": 101,
+                "model": "Thermo10.1",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 5,
+                "unit": 101,
+                "model": "Thermo10.1",
+                "admin_accessible": "false"
+            }
+        ],
+        "lights": [
+            {
+                "id": 1,
+                "unit": 101,
+                "model": "Smart Bulby",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 2,
+                "unit": 102,
+                "model": "Smart Bulby",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 3,
+                "unit": 201,
+                "model": "Smart Bulby",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 4,
+                "unit": 202,
+                "model": "Smart Bulby",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 5,
+                "unit": 301,
+                "model": "Smart Bulby",
+                "admin_accessible": "false"
+            },
+            {
+                "id": 6,
+                "unit": 301,
+                "model": "Mr Brightside",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 7,
+                "unit": 101,
+                "model": "Mr Brightside",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 8,
+                "unit": 201,
+                "model": "Mr Brightside",
+                "admin_accessible": "true"
+            }
+        ],
+        "locks": [
+            {
+                "id": 1,
+                "unit": 101,
+                "model": "Sesame",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 2,
+                "unit": 102,
+                "model": "UnLocke",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 3,
+                "unit": 201,
+                "model": "UnLocke",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 4,
+                "unit": 202,
+                "model": "Sesame",
+                "admin_accessible": "true"
+            },
+            {
+                "id": 5,
+                "unit": 301,
+                "model": "UnLocke",
+                "admin_accessible": "true"
+            }
+        ]
+    },
+    "people": [
+        {
+            "first_name": "Ron",
+            "last_name": "Arann",
+            "unit": "101",
+            "roles": [
+                "Admin",
+                "Resident"
+            ]
+        },
+        {
+            "first_name": "Mack",
+            "last_name": "Crane",
+            "unit": "102",
+            "roles": [
+                "Resident"
+            ]
+        },
+        {
+            "first_name": "Zif",
+            "last_name": "Shaban",
+            "unit": "201",
+            "roles": [
+                "Admin",
+                "Resident"
+            ]
+        },
+        {
+            "first_name": "Luanne",
+            "last_name": "Lucky",
+            "unit": "202",
+            "roles": [
+                "Resident"
+            ]
+        },
+        {
+            "first_name": "Thea",
+            "last_name": "Queen",
+            "unit": "301",
+            "roles": [
+                "Resident"
+            ]
+        },
+        {
+            "first_name": "Joe",
+            "last_name": "Moe",
+            "unit": "301",
+            "roles": [
+                "Resident"
+            ]
+        }
+    ]
+}
